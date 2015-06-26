@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Reposoft/opid/issues"
   },
-  "homepage": "https://github.com/Reposoft/opid"
+  "homepage": "https://github.com/Reposoft/opid",
+  "dependencies": {
+    "uuid": "^2.0.1"
+  }
 }
