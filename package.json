@@ -1,0 +1,19 @@
+{
+  "name": "opid",
+  "version": "0.1.0",
+  "description": "UUID for CRDT style op sequences",
+  "main": "opid.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Reposoft/opid"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Reposoft/opid/issues"
+  },
+  "homepage": "https://github.com/Reposoft/opid"
+}
