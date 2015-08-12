@@ -26,7 +26,9 @@ describe("OPID", function() {
 
     });
 
-    it("Also contains the op")
+    it("Also contains the op", function() {
+
+    });
 
   });
 
